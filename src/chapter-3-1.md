@@ -25,17 +25,6 @@ Chatbots and AI can be used in various ways in event planning for weddings, incl
 * Personalized interactions with users based on their preferences and historical data
 * Analysis of event planning data to identify patterns and predict outcomes
 
-Advantages of Using Chatbots and AI in Event Planning
------------------------------------------------------
-
-Using chatbots and AI in event planning for weddings can provide numerous advantages, including:
-
-* Improved efficiency and streamlining of repetitive tasks
-* Enhanced user experience and engagement with chatbots
-* Real-time updates and communication between couples and vendors
-* Better management of data and information
-* Personalized and intuitive interactions with users
-
 Conclusion
 ----------
 

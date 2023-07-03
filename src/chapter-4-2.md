@@ -3,11 +3,6 @@ The Features of ChatGPT
 
 ChatGPT is an AI-powered chatbot designed specifically for event planning in the wedding industry. In this chapter, we will explore the features of ChatGPT and how it can benefit those in the wedding industry.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is a chatbot that utilizes Natural Language Processing (NLP) and Machine Learning (ML) to provide personalized assistance to users in the wedding industry. It can assist with tasks such as venue selection, vendor recommendations, budget management, and guest list management.
-
 Features of ChatGPT
 -------------------
 
