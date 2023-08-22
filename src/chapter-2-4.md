@@ -1,5 +1,4 @@
-Limitations and Challenges of Event Planning in the Wedding Industry
-=====================================================================================================================================
+
 
 Event planning in the wedding industry is a complex process that involves many different stakeholders, including couples, vendors, and event planners. In this chapter, we will explore the limitations and challenges of event planning in the wedding industry.
 

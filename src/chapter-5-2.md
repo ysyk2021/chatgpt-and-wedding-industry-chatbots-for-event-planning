@@ -1,5 +1,4 @@
-Personalization Techniques Used in ChatGPT for Wedding Event Planning
-==================================================================================================================================
+
 
 In this chapter, we will focus on the personalization techniques used in ChatGPT for wedding event planning. Personalization is a crucial aspect of ChatGPT, allowing businesses to create more tailored solutions that meet the unique needs and preferences of each couple.
 

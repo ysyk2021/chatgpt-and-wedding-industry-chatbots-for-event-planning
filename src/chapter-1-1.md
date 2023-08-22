@@ -1,5 +1,4 @@
-Overview of the Book
-==================================
+
 
 This book explores the use of ChatGPT-powered chatbots in event planning for weddings. We will provide an overview of chatbots and artificial intelligence (AI) in event planning, discuss the advantages and limitations of their use, and explore different types of chatbots used in event planning. We will also examine the challenges associated with the use of chatbots in event planning and identify potential future research directions.
 

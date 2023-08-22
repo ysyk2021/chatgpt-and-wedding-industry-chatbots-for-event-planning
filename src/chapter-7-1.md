@@ -1,5 +1,4 @@
-Emerging Trends in Chatbots and AI in Event Planning for Weddings
-============================================================================================================================================================
+
 
 In this chapter, we will explore emerging trends in chatbots and AI in event planning for weddings. As technology continues to evolve, it is essential to explore innovative solutions that can improve the overall user experience and increase efficiency.
 

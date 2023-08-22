@@ -1,5 +1,4 @@
-Integration with Existing Event Planning Systems for Weddings
-==================================================================================================================================
+
 
 Integrating chatbots powered by ChatGPT into existing event planning systems can streamline the event planning process and improve efficiency. In this chapter, we will explore the steps involved in integrating chatbots into existing event planning systems for weddings.
 

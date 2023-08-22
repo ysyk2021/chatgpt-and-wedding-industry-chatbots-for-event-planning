@@ -1,5 +1,4 @@
-Advantages of Using Chatbots and AI in Event Planning
-===================================================================================================
+
 
 Chatbots powered by ChatGPT and other forms of artificial intelligence (AI) can provide significant advantages when used in event planning for weddings. In this chapter, we will explore some of these advantages.
 

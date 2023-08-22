@@ -1,5 +1,4 @@
-Chapter 5: Implementation of ChatGPT in Event Planning for Weddings
-===================================================================
+
 
 In this chapter, we will explore the implementation of ChatGPT in event planning for weddings. We will discuss the planning and designing of chatbots with ChatGPT, integration with existing event planning systems, training and managing conversations, and evaluating ChatGPT's performance and effectiveness.
 

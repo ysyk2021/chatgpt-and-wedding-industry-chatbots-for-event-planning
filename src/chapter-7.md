@@ -1,5 +1,4 @@
-Chapter 6: Future Trends and Directions in Chatbots and AI in Event Planning for Weddings
-=========================================================================================
+
 
 In this chapter, we will explore future trends and directions in chatbots and AI in event planning for weddings. As technology continues to evolve rapidly, it is crucial to examine how these advancements will shape the industry.
 

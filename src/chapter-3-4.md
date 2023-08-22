@@ -1,5 +1,4 @@
-Challenges and Limitations of Using Chatbots in Event Planning
-============================================================================================================
+
 
 While chatbots powered by ChatGPT can provide significant benefits to the event planning process, there are also challenges and limitations that organizations must consider. In this chapter, we will explore some of these challenges and limitations.
 

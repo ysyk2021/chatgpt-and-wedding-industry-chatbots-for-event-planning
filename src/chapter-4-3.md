@@ -1,5 +1,4 @@
-Advantages of Using ChatGPT in Event Planning for Weddings
-==============================================================================================
+
 
 In this chapter, we will explore the advantages of using ChatGPT in event planning for weddings. ChatGPT is an advanced natural language processing tool that has the potential to revolutionize the wedding industry by providing tailored solutions that meet the unique needs and preferences of each couple.
 

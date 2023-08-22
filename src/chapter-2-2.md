@@ -1,5 +1,4 @@
-The History and Evolution of Event Planning in the Wedding Industry
-====================================================================================================================================
+
 
 Event planning for weddings has a long and rich history, dating back to ancient civilizations. In this chapter, we will explore the history and evolution of event planning in the wedding industry.
 

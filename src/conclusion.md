@@ -1,4 +1,4 @@
-# Conclusion
+
 
 In this book, we explored the role of chatbots in event planning, specifically in the context of the wedding industry. We discussed the benefits of using chatbots, how they can improve the overall user experience, and the potential of ChatGPT in creating more advanced and efficient chatbots for wedding planning.
 

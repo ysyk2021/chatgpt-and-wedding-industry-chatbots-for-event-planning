@@ -1,5 +1,4 @@
-Chapter 2: Chatbots and AI in Event Planning
-============================================
+
 
 Chatbots and artificial intelligence (AI) are increasingly being used in event planning, including weddings. In this chapter, we will provide an overview of chatbots and AI in event planning, explore the advantages of using them, discuss the different types of chatbots used in event planning, and examine the challenges and limitations of their use.
 

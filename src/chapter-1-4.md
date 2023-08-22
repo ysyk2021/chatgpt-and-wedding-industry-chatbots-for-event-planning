@@ -1,5 +1,4 @@
-Objectives of the Book
-====================================
+
 
 The wedding industry is a complex and dynamic field that requires careful planning and execution to create memorable and engaging events. With the rise of technology, such as chatbots powered by ChatGPT and other forms of artificial intelligence (AI), event planning for weddings is evolving rapidly.
 

@@ -1,5 +1,4 @@
-What is Event Planning in the Wedding Industry?
-================================================================================================================
+
 
 Event planning in the wedding industry involves the organization and execution of all aspects related to a couple's wedding ceremony and reception. The goal of event planning is to create a memorable and enjoyable experience for the couple and their guests while ensuring that everything runs smoothly and according to plan.
 

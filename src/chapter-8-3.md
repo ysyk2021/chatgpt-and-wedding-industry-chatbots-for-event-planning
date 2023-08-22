@@ -1,5 +1,4 @@
-Limitations and Future Research Directions
-======================================================
+
 
 In this book, we have explored the use of ChatGPT-powered chatbots in event planning for weddings. We have discussed the advantages of using chatbots and AI in event planning, including personalized interactions with users, improved efficiency, enhanced user experience and engagement with chatbots, real-time updates and communication between couples and vendors, and better management of data and information.
 

@@ -1,5 +1,4 @@
-Background Information on Event Planning and ChatGPT in the Wedding Industry
-==========================================================================================
+
 
 Event planning for weddings is a complex and dynamic process that requires careful planning, coordination, and execution. With the rise of technology, such as chatbots powered by ChatGPT and other forms of artificial intelligence (AI), event planning for weddings is evolving rapidly.
 

@@ -1,5 +1,4 @@
-Types of Event Planning Techniques Used Today
-==============================================================================================================
+
 
 Event planning for weddings requires a wide range of skills, including communication, project management, and creativity. In this chapter, we will explore different types of event planning techniques used today.
 
