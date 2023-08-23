@@ -1,5 +1,4 @@
 
-
 Chatbots powered by ChatGPT and other forms of artificial intelligence (AI) are revolutionizing the event planning industry, including weddings. In this chapter, we will provide an overview of chatbots and AI in event planning.
 
 What Are Chatbots?

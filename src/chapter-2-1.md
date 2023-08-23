@@ -1,5 +1,4 @@
 
-
 Event planning in the wedding industry involves the organization and execution of all aspects related to a couple's wedding ceremony and reception. The goal of event planning is to create a memorable and enjoyable experience for the couple and their guests while ensuring that everything runs smoothly and according to plan.
 
 The event planning process for weddings includes several stages, including venue selection, vendor management, budgeting, scheduling, and coordination of various elements of the wedding ceremony and reception. This may include selecting a catering service, arranging for floral arrangements, coordinating with photographers and videographers, and managing guest lists.

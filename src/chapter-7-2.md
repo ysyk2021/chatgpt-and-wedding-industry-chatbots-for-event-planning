@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the future of chatbots and AI in event planning for weddings. As technology continues to evolve, it is essential to examine how these advancements will shape the wedding industry.
 
 Increased Efficiency and Personalization

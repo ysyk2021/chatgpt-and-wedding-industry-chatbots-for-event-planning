@@ -1,5 +1,4 @@
 
-
 The wedding industry is becoming increasingly dependent on technology to streamline the event planning process, and chatbots powered by ChatGPT can play a significant role in enhancing the experience for both couples and vendors. In this chapter, we will explore how ChatGPT can be implemented in event planning for weddings and the steps involved in training ChatGPT and managing conversations.
 
 Training ChatGPT for Event Planning in Weddings

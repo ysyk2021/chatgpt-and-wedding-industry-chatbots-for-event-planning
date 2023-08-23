@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore how ChatGPT improves event planning for weddings. We will discuss the mechanics of how ChatGPT works in event planning, the personalization techniques used, and how data is leveraged to improve the overall user experience. Additionally, we will present case studies demonstrating ChatGPT's effectiveness in improving event planning for weddings.
 
 How ChatGPT Works in Event Planning for Weddings

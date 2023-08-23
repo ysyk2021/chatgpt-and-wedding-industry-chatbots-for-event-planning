@@ -1,5 +1,4 @@
 
-
 The wedding industry is an ever-evolving market, with new trends and technologies emerging every day. As the industry continues to grow, it has become increasingly important for couples and event planners to find efficient ways to plan and organize weddings. This book explores the use of AI-powered chatbots in event planning, specifically in the wedding industry.
 
 Chatbots have proven to be a useful tool in customer service and other industries, providing personalized assistance and support through automation. In the wedding industry, chatbots can assist with tasks such as venue selection, vendor recommendations, budget management, and guest list management, among others.

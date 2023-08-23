@@ -1,5 +1,4 @@
 
-
 Event planning for weddings is a complex and dynamic process that requires careful planning, coordination, and execution. In this chapter, we will provide an overview of event planning in the wedding industry, explore its history and evolution, discuss different types of event planning techniques used today, and examine the limitations and challenges associated with event planning in this field.
 
 What is Event Planning in the Wedding Industry?

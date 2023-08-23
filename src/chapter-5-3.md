@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore how ChatGPT uses data to improve event planning for weddings. ChatGPT's advanced natural language processing abilities allow it to analyze user data and historical information to provide more accurate and relevant recommendations for couples and wedding planners.
 
 Vendor Selection

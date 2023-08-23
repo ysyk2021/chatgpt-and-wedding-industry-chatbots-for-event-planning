@@ -1,5 +1,4 @@
 
-
 Chatbots powered by ChatGPT have the potential to revolutionize the event planning process for weddings. In this chapter, we will explore the types of chatbots used in event planning and their functionalities.
 
 Informational Chatbots

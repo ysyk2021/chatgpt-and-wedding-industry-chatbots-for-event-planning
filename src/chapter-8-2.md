@@ -1,5 +1,4 @@
 
-
 In this book, we explored the use of chatbots in event planning for weddings, with a focus on the potential of ChatGPT to create more advanced and efficient chatbots. We discussed the benefits of using chatbots in wedding event planning, including improved efficiency, personalized solutions, and real-time data analysis.
 
 Implications of the Study

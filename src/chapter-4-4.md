@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the technology behind chatbots and introduce ChatGPT, an advanced language model developed by OpenAI. We will also present case studies on ChatGPT-based event planning for weddings, demonstrating the potential of this technology in creating more advanced and efficient chatbots.
 
 Case Studies on ChatGPT-Based Event Planning for Weddings

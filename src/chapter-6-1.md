@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the planning and designing of event planning chatbots with ChatGPT for weddings. The success of a chatbot relies on its ability to provide relevant and accurate information to users, and proper planning and design are crucial to achieving this goal.
 
 Identifying Objectives

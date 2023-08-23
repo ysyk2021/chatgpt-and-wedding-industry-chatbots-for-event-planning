@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore case studies demonstrating ChatGPT's effectiveness in improving event planning for weddings. Chatbots and AI have the potential to streamline processes and improve the overall user experience, and these case studies provide concrete examples of how ChatGPT can achieve these goals.
 
 Case Study 1: Vendor Selection

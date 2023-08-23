@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore how ChatGPT works in event planning for weddings. ChatGPT is a language model that uses natural language processing (NLP) algorithms to understand text-based inputs from users and generate human-like responses. In the context of event planning for weddings, ChatGPT can assist with tasks such as vendor communication, guest management, and budget tracking.
 
 Understanding ChatGPT
