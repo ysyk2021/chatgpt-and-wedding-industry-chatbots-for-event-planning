@@ -10,3 +10,7 @@ Throughout this book, we will explore the features of ChatGPT and how it can ben
 By utilizing ChatGPT and other AI-powered chatbots, event planners and couples can streamline the wedding planning process, save time and resources, and enhance the overall customer experience. This book aims to provide a comprehensive overview of the use of AI-powered chatbots in the wedding industry and how they can transform event planning for the better.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
