@@ -1,5 +1,4 @@
-Chapter 6: Case Studies on ChatGPT-Based Event Planning for Weddings
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Chatbots powered by GPT technology have become increasingly popular in the wedding industry. These AI chatbots provide instant information, advice, and recommendations to couples, wedding planners, and vendors, facilitating a more efficient and streamlined planning process. In this chapter, we will explore some case studies on how ChatGPT-based event planning has been used in weddings.
 

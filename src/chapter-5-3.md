@@ -1,5 +1,4 @@
-Chapter 7: How ChatGPT Uses Data to Improve Event Planning for Weddings
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Data plays a crucial role in improving event planning for weddings. By leveraging the power of ChatGPT and analyzing data, wedding industry chatbots can provide more personalized and accurate recommendations, streamline processes, and enhance the overall wedding experience. In this chapter, we will explore how ChatGPT uses data to improve event planning for weddings.
 

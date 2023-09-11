@@ -1,5 +1,4 @@
-Chapter 10: Planning and Designing Event Planning Chatbots with ChatGPT for Weddings
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Designing and planning an event planning chatbot for weddings requires careful consideration of the specific needs and requirements of couples, as well as the capabilities and limitations of ChatGPT. In this chapter, we will explore the key steps and considerations involved in planning and designing event planning chatbots with ChatGPT for weddings.
 

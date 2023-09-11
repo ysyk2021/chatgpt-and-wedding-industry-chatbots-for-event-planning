@@ -1,5 +1,4 @@
-Chapter 9: Limitations and Challenges of Event Planning in the Wedding Industry
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 While event planning chatbots for the wedding industry offer numerous benefits, they also come with certain limitations and challenges. It is important for wedding professionals to be aware of these factors when implementing chatbots into their event planning processes. In this chapter, we will explore the key limitations and challenges of event planning in the wedding industry.
 

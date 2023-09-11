@@ -1,5 +1,4 @@
-Chapter 8: How ChatGPT Works in Event Planning for Weddings
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, powered by OpenAI's advanced language model, has revolutionized event planning for weddings by providing intelligent and interactive conversational experiences. In this chapter, we will delve into the inner workings of ChatGPT and explore how it functions in the context of wedding event planning.
 

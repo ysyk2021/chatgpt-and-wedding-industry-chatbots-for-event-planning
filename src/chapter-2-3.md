@@ -1,5 +1,4 @@
-Chapter 4: Types of Event Planning Techniques Used Today
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Event planning techniques have evolved significantly over time, incorporating new strategies and approaches to ensure successful execution and memorable experiences. Wedding professionals are continually adapting these techniques to meet the ever-changing needs and preferences of couples. In this chapter, we will explore some of the common event planning techniques used in the wedding industry today.
 

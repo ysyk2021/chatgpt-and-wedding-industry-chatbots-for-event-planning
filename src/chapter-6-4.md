@@ -1,5 +1,4 @@
-Chapter 7: Evaluating ChatGPT's Performance and Effectiveness in Event Planning for Weddings
-============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Assessing the performance and effectiveness of ChatGPT is crucial in determining its suitability for event planning in the wedding industry. Evaluating how well the chatbot meets the specific requirements and objectives of wedding professionals can help identify its strengths and areas for improvement. In this chapter, we will explore the key aspects to consider when evaluating ChatGPT's performance and effectiveness in event planning for weddings.
 

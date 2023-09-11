@@ -1,5 +1,4 @@
-Chapter 2: What is ChatGPT?
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT is an AI-powered chatbot that utilizes natural language processing (NLP) to engage in interactive conversations with users. Developed by OpenAI, ChatGPT is based on the Generative Pre-trained Transformer 3 (GPT-3) model, which enables it to understand and respond to human language in a natural and conversational manner.
 

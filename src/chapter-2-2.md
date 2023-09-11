@@ -1,5 +1,4 @@
-Chapter 3: The History and Evolution of Event Planning in the Wedding Industry
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Event planning in the wedding industry has a rich history that spans centuries. From ancient rituals to modern-day celebrations, the practice of organizing and executing weddings has evolved significantly over time. In this chapter, we will explore the historical milestones and significant developments that have shaped event planning in the wedding industry as we know it today.
 

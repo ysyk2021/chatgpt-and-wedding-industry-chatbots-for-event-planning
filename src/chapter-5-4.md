@@ -1,5 +1,4 @@
-Chapter 10: Case Studies Demonstrating ChatGPT's Effectiveness in Improving Event Planning for Weddings
-=======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, coupled with innovative chatbot solutions, has transformed event planning for weddings by providing efficient and personalized assistance. In this chapter, we will explore real-world case studies that demonstrate the effectiveness of ChatGPT in improving event planning processes.
 

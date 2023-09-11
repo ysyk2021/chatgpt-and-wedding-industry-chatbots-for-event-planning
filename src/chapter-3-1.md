@@ -1,5 +1,4 @@
-Chapter 12: An Overview of Chatbots and AI in Event Planning
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Chatbots and artificial intelligence (AI) are transforming the landscape of event planning, revolutionizing how weddings and other special occasions are organized. In this chapter, we will provide an overview of chatbots and AI technologies and their role in the event planning process.
 

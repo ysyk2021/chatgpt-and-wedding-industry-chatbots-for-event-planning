@@ -1,5 +1,4 @@
-Chapter 3: Features of ChatGPT
-==============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, powered by OpenAI's GPT-3.5, offers a comprehensive set of features that make it an exceptional tool for event planning in the wedding industry. These features enable chatbots to engage in personalized and dynamic conversations with couples, providing valuable assistance throughout the planning process. In this chapter, we will explore the key features of ChatGPT.
 

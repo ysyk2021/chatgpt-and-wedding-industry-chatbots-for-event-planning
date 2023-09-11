@@ -1,5 +1,4 @@
-Chapter 18: Integration with Existing Event Planning Systems for Weddings
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the wedding industry, event planning systems play a crucial role in managing and organizing various aspects of weddings. By integrating AI-powered chatbots, such as ChatGPT, with existing event planning systems, wedding professionals can enhance their services, streamline operations, and provide a personalized planning experience for couples. In this chapter, we will explore the benefits and implementation of integrating ChatGPT with existing event planning systems for weddings.
 

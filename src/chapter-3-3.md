@@ -1,5 +1,4 @@
-Chapter 9: Types of Chatbots Used in Event Planning
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Chatbots play a significant role in event planning, including weddings. They provide streamlined communication, personalized assistance, and automation of repetitive tasks. In this chapter, we will explore the different types of chatbots commonly used in event planning, highlighting their features and benefits.
 

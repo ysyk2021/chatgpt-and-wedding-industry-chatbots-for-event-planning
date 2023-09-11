@@ -1,5 +1,4 @@
-Chapter 10: Opportunities and Challenges in Chatbots and AI in Event Planning for Weddings
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of chatbots and AI in event planning for weddings presents numerous opportunities to enhance efficiency, personalization, and user experiences. However, along with these opportunities, various challenges must be addressed to harness the full potential of this technology. In this chapter, we will explore the opportunities and challenges associated with chatbots and AI in the wedding industry.
 

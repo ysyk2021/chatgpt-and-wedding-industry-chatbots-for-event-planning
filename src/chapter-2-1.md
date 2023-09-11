@@ -1,5 +1,4 @@
-Chapter 2: What is Event Planning in the Wedding Industry?
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Event planning in the wedding industry is a multifaceted and intricate process that involves meticulously organizing and coordinating all aspects of a couple's wedding celebration. It encompasses a wide range of tasks, from venue selection to vendor management, budgeting, timeline organization, and much more. In this chapter, we will delve into the fundamental concepts and elements of event planning specifically tailored to the wedding industry.
 

@@ -1,5 +1,4 @@
-Chapter 11: Advantages of Using Chatbots and AI in Event Planning
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The utilization of chatbots and artificial intelligence (AI) in event planning has revolutionized the way weddings and other events are organized. In this chapter, we will explore the numerous advantages that come with incorporating chatbot technology and AI into the event planning process.
 
